@@ -1,26 +1,22 @@
-*{
+* {
     background-color: black;
 }
-h1{
-    font-family: 'Libre Baskerville';
-}
-.paragraf{
-    color: white;
-    text-align: center;
-}
-.metin{
-    color: white;
-    background-color: black;
+
+body {
     display: flex;
     justify-content: center;
-    margin: 30px;
+    align-items: center;
+    height: 70vh;
 }
-.resim{
-    margin-top: 50px;
-    display: flex;
-    justify-content: center;
+
+.poster {
+    width: 50%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
     text-align: center;
 }
-img{
-    border: 10px solid white;
+
+.resim {
+    border: 5px solid white;
+    width: 100%;
 }

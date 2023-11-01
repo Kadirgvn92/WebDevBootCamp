@@ -1,0 +1,24 @@
+.main{
+    width: 600px;
+    height: 600px;
+    background-color: #FF0000 ;
+    position: relative;
+}
+.rec-1{
+    position: absolute;
+    margin: 0;
+    top: 100px;
+    left: 230px;
+    width: 130px;
+    height: 400px;
+    background-color: white;
+}
+.rec-2{
+    position:absolute;
+    margin: 0;
+    background-color: white;
+    height: 130px;
+    width: 400px;
+    top: 230px;
+    left: 105px;
+}

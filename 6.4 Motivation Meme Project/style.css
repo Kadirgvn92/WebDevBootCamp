@@ -19,6 +19,7 @@ h1{
     margin-top: 50px;
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 img{
     border: 10px solid white;

@@ -1,0 +1,57 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.roll-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: auto; /* Butonu yatayda ortalar */
+  margin-top: 20px; /* İstediğiniz boşluk miktarını ayarlayabilirsiniz */
+  background-color: #4ECCA3; /* Butonun arkaplan rengi */
+  color: #393E46; /* Buton metin rengi */
+  border: none; /* Buton kenarlığı kaldırır */
+  padding: 10px 20px; /* Buton iç içe olma miktarını ayarlar */
+  font-size: 1.5rem; /* Buton metin boyutu */
+  cursor: pointer; /* Butona tıklanabilir bir işaretçi ekler */
+}
